@@ -1,0 +1,11 @@
+{
+    "student_id": "6604101347",
+    "name": "Papasorn Saernchai",
+    "github_repo": "https://github.com/papasorn1605/Papasorn-Saernchai-6604101347-06-03-2026",
+    "backend_base_url": "https://papasorn-saernchai-6604101347-06-03-2026.onrender.com",
+    "frontend_url": "https://frontend-task-papasorn.netlify.app",
+    "api": {
+        "health": "https://papasorn-saernchai-6604101347-06-03-2026.onrender.com/api/health",
+        "tasks": "https://papasorn-saernchai-6604101347-06-03-2026.onrender.com/api/tasks"
+    }
+}
